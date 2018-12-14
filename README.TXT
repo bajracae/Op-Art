@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Op Art
+PURPOSE OF PROJECT: Learn how to use a GUI in Java
+VERSION or DATE: 7/16
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Aeijan Bajracharya and Jinwon Kim
 USER INSTRUCTIONS:
