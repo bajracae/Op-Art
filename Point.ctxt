@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Point(int,\ int)
+comment0.text=\r\n\ Creates\ x-coordinate.\r\n\ Creates\ y-coordinate.\r\n\ \r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Returns\ the\ x-coordinate\ of\ this\ point.\r\n\ @return\ the\ x-coordinate.\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Returns\ the\ y-coordinate\ of\ this\ point.\r\n\ @return\ the\ y-coordinate.\r\n
+comment3.params=other
+comment3.target=double\ getDistance(Point)
+comment3.text=\r\n\ Measures\ the\ distance\ between\ two\ points.\r\n\ \r\n
+comment4.params=other
+comment4.target=double\ slope(Point)
+comment4.text=\r\n\ Calculates\ the\ slope\ of\ the\ line\ produced\ by\ two\ points.\r\n\ \r\n
+numComments=5
